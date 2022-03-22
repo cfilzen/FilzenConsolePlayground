@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcd704ac-01a2-49d8-9de7-5132fbcda2fc": {
+      "ProjectGuid": "fcd704ac-01a2-49d8-9de7-5132fbcda2fc",
+      "DisplayName": "FilzenConsolePlayground",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

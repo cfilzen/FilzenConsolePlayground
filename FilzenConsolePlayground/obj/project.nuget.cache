@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qwN0BGiSUA91qqmu3fJAIQ7/f9II529kfHyGNKkzhM3bNkDOayeM9HV6CG9bHKv9sP8ONcJVYVEb6Ni+MMw0KA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FilzenConsolePlayground\\FilzenConsolePlayground\\FilzenConsolePlayground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cfilz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
